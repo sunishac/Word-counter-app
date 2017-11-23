@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="Add_label">Add Words to search:</string>
+    <string name="str2">Match cases</string>
+    <string name="search">Search</string>
+    <string name="freq">Word frequencies:</string>
+    <string name="finish">Finish</string>
+    <string name="Word_label">Word Frequencies</string>
+    <string name="button_lable_second">Finish</string>
+</resources>
